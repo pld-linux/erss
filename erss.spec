@@ -1,4 +1,5 @@
 Summary:	RSS reader using EFL
+Summary(pl):	Czytnik RSS u¿ywaj±cy EFL
 Name:		erss
 Version:	0.0.2
 %define	_snap	20050701
@@ -18,6 +19,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 RSS reader using EFL.
+
+%description -l pl
+Czytnik RSS u¿ywaj±cy EFL.
 
 %prep
 %setup -q -n %{name}
