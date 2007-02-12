@@ -1,5 +1,5 @@
 Summary:	RSS reader using EFL
-Summary(pl.UTF-8):   Czytnik RSS używający EFL
+Summary(pl.UTF-8):	Czytnik RSS używający EFL
 Name:		erss
 Version:	0.0.2
 %define	_snap	20050701
